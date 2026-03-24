@@ -3,13 +3,20 @@ public class Lista {
 	private static String[] ListaPalabras = {
 			"Perro",
 			"Carro",
-			"Manzana"
+			"Manzana",
+			"Vaso",
+			"Libro",
+			"Camisa"
+			
 	};
 	
 	private static String[] ListaPalabrasIngles = {
 			"Dog",
 			"Car",
-			"Apple"
+			"Apple",
+			"Glass",
+			"Book",
+			"Shirt"
 	};
 	
 	public static String getPalabraIngles(int indice) {
